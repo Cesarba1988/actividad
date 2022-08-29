@@ -1,0 +1,26 @@
+.navbar-toggler-icon{
+    background-color: #007bff;
+    
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+
+  .foto1{
+     padding: 10px; margin: 10px; border: 2px solid black; float: right; width: 300px; }
+
+     .foto2{
+      padding: 10px; margin: 10px; border: 2px solid black; float: right; width: 300px; }
+
+      .foto3{
+        padding: 10px; margin: 10px; border: 2px solid black; float: right; width: 300px; }
+
+        .left{
+          padding: 10px; margin: 10px;  float: right; width: 300px; ;
+        }
+        .center{
+          padding: 10px; margin: 10px;  float: right; width: 300px; ;
+        }
+
+        .right{
+          padding: 10px; margin: 10px;  float: right; width: 300px; ;
+        }
